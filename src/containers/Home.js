@@ -8,7 +8,7 @@ import WeatherImage from "../components/WeatherImage";
 const weatherKey = `TODO`; // Your API Key here
 
 function Home() {
-  // TODO
+    // TODO
 }
 
 export default Home;
