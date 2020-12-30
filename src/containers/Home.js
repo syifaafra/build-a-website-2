@@ -15,7 +15,7 @@ function Home() { <
     return (
         // Container
         <
-        div className = "flex flex-col h-screen bg-green-200" >
+        div className = "flex flex-col h-screen bg-blue-200" >
         <
         City cityName = { "Bogor" }
         temp = { "10°C" }
@@ -27,9 +27,9 @@ function Home() { <
         /> <
         City cityName = { "Aceh" }
         temp = { "17°C" }
-        color = { "bg-blue-500" }
-        /> <
-        /div>
+        color = { "bg-green-500" }
+        /> < /
+        div >
     );
 }
 
